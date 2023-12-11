@@ -23,6 +23,8 @@ This deep learning project employs various CNN architectures to recognize facial
 
 ![Angry](https://github.com/ItShivani/Facial-Emotion-Recognition/blob/main/images/Screenshot%202023-12-10%20at%209.10.40%20PM.png)
 
+![Sad](https://github.com/ItShivani/Facial-Emotion-Recognition/blob/main/images/Screenshot%202023-12-10%20at%209.08.18%20PM.png)
+
 
 
 
